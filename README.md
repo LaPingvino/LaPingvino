@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-I have a part of my code on https://git.kiefte.eu/LaPingvino/ instead.
+I have a part of my code on https://git.kiefte.eu/LaPingvino/ instead. Check it out!
+
+### Languages
+
+- **Programming:** Go, various Lisp dialects, a good bunch of shell scripting, a good degree of HTML/CSS/JS/PHP (but I'm horrible at designing an interface...)
+- **Spoken:** Dutch, Esperanto, English, Portuguese, Spanish, French, German, Ido, Toki Pona, Italian and Afrikaans
 
 <!--
 **LaPingvino/LaPingvino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
