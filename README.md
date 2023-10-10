@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I have a part of my code on https://git.kiefte.eu/LaPingvino/ instead. Check it out!
+I have a part of my code on https://codeberg.org/LaPingvino/ instead. Check it out!
 
 ### Languages
 
